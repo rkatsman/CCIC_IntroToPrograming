@@ -34,3 +34,4 @@ println("If you follow" + famousperosn + "they will lead you to the" + adj2 + "p
 println("We have stores all over the globe, such as " + place1 + "and " + place2);
 println("At" + nameOfStore2 + " we strive to " + verb1 + " your every desire. ");
 println("Our reviews is" + secnumb + " stars out of 5. We also value your" + familyperson);
+//cool
