@@ -1,1 +1,13 @@
-
+int exp1 = 3 + 4;
+int exp2 = 4 - 2;
+int exp3 = 2 * 2;
+int exp4 = 16 / 8;
+int exp5 = 5 % 2;
+println("The lotery numbers are !!!! " );
+println(exp1 , exp2 , exp3 , exp4 , exp5);
+boolean kat1 = (true && false || true);
+boolean kat2 = (true || false);
+boolean kat3 = !((4 + 1) > 6);
+boolean kat4 = !((4 + 1) > 7);
+boolean kat5 = (!(5 + 5 == 11));
+print("Results " + kat1 + kat2 + kat3 + kat4 + kat5);
